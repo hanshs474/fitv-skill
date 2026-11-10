@@ -1,0 +1,10 @@
+{
+  "name": "free-image-to-video",
+  "version": "0.1.0",
+  "description": "Make video clips with sound from a prompt or a photo on freeimagetovideo.ai from Claude Code, on your own API key.",
+  "author": { "name": "Free Image to Video", "email": "support@freeimagetovideo.ai", "url": "https://freeimagetovideo.ai/" },
+  "homepage": "https://freeimagetovideo.ai/?utm_source=claude-plugin&utm_medium=package",
+  "repository": "https://github.com/hanshs474/fitv-skill",
+  "license": "MIT",
+  "keywords": ["image-to-video", "text-to-video", "ai-video", "skill"]
+}

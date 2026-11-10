@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "freeimagetovideo",
+  "description": "Free Image to Video for Claude Code: video clips with sound from a prompt or a photo, on your own API key.",
+  "owner": { "name": "Free Image to Video", "email": "support@freeimagetovideo.ai" },
+  "plugins": [
+    {
+      "name": "free-image-to-video",
+      "description": "Make video clips with sound from a prompt or a photo on freeimagetovideo.ai.",
+      "version": "0.1.0",
+      "source": "./",
+      "category": "productivity",
+      "homepage": "https://freeimagetovideo.ai/?utm_source=claude-plugin&utm_medium=package"
+    }
+  ]
+}
